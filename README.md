@@ -7,4 +7,4 @@ To join or help contribute, feel free to submit a pull request to this project a
 
 ## Trump Boycott
 
-Boycott companies that do business with Donald Trump and his family by downloading our Chrome Extension.
+Boycott companies that do business with Donald Trump and his family by downloading our Chrome Extension.  Visit women-united.org for download information.
